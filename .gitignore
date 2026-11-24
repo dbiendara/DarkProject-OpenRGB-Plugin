@@ -1,0 +1,6 @@
+build/
+OpenRGB/
+*.so
+*.o
+.vscode/
+.DS_Store
